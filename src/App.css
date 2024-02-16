@@ -1,0 +1,23 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.App-left{
+    display: flex;
+    flex-direction: row;
+
+    
+    justify-content: space-around;
+}
+.App-left .left-part{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+
+
+}
+.App-left .left-part{
+  
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first-left{
+    height: 50vh;
+    width: 20vw;
+
+    background-color: rgb(151, 82, 82);
+
+}
+h1{
+    color:red
+}
